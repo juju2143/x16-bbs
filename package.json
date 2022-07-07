@@ -12,6 +12,6 @@
     "@maximegris/node-websockify": "^1.0.7",
     "argon2": "^0.26.1",
     "better-sqlite3": "^6.0.1",
-    "moment": "^2.24.0"
+    "moment": "^2.29.4"
   }
 }
